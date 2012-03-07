@@ -1,0 +1,1 @@
+All Firebug icons or any other design files should be stored in this repository.
